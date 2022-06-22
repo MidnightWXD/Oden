@@ -19,7 +19,7 @@ I made all options which are related to tables dynamically by using async and aw
 
 
 
-https://drive.google.com/file/d/15C1SmOrxDa__YVdclHE21lU8Ih5WNL40/view
+https://drive.google.com/file/d/1tS96-8r4KzAkGLC5vtNIcKVejaSHn_qv/view
 
 
 
